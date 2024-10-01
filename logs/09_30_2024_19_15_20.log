@@ -1,0 +1,22 @@
+[ 2024-09-30 19:16:11,225 ] 18 root - INFO - 1
+[ 2024-09-30 19:16:16,050 ] 20 root - INFO - 2
+[ 2024-09-30 19:16:56,974 ] 18 root - INFO - 1
+[ 2024-09-30 19:17:01,099 ] 20 root - INFO - 2
+[ 2024-09-30 19:17:20,635 ] 18 root - INFO - 1
+[ 2024-09-30 19:17:24,732 ] 20 root - INFO - 2
+[ 2024-09-30 19:17:43,140 ] 18 root - INFO - 1
+[ 2024-09-30 19:17:47,068 ] 20 root - INFO - 2
+[ 2024-09-30 19:17:57,476 ] 18 root - INFO - 1
+[ 2024-09-30 19:18:01,337 ] 20 root - INFO - 2
+[ 2024-09-30 19:18:03,063 ] 156 tensorflow - WARNING - 5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x0000020E800F64D0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+[ 2024-09-30 19:18:10,810 ] 18 root - INFO - 1
+[ 2024-09-30 19:18:15,663 ] 20 root - INFO - 2
+[ 2024-09-30 19:18:17,512 ] 156 tensorflow - WARNING - 6 out of the last 6 calls to <function Model.make_predict_function.<locals>.predict_function at 0x0000020E800F64D0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+[ 2024-09-30 19:18:29,942 ] 18 root - INFO - 1
+[ 2024-09-30 19:18:34,147 ] 20 root - INFO - 2
+[ 2024-09-30 19:18:46,308 ] 18 root - INFO - 1
+[ 2024-09-30 19:18:50,214 ] 20 root - INFO - 2
+[ 2024-09-30 19:18:54,266 ] 18 root - INFO - 1
+[ 2024-09-30 19:18:58,423 ] 20 root - INFO - 2
+[ 2024-09-30 19:19:18,718 ] 18 root - INFO - 1
+[ 2024-09-30 19:19:22,601 ] 20 root - INFO - 2

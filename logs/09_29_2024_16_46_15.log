@@ -1,0 +1,5 @@
+[ 2024-09-29 16:46:26,447 ] 29 root - INFO - TRAINING HAS STARTED
+[ 2024-09-29 16:46:26,450 ] 34 root - INFO - yaml file: config\config.yaml loaded successfully
+[ 2024-09-29 16:46:26,453 ] 34 root - INFO - yaml file: params.yaml loaded successfully
+[ 2024-09-29 16:46:26,454 ] 53 root - INFO - created directory at: artifacts
+[ 2024-09-29 16:46:26,454 ] 53 root - INFO - created directory at: artifacts\training
